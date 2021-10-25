@@ -1,0 +1,2 @@
+language = "java10"
+run = "javac com/shrish/gol/GameOfLife.java && java com.shrish.gol.GameOfLife"
